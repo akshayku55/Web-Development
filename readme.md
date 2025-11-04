@@ -1,32 +1,25 @@
-# 🌐 Web Development Journey  
+# Web Development Journey
 
-Hey, I’m **Akshay** 👋  
-This repo is my daily log of learning front-end development — HTML, CSS, JS, and beyond.  
-Each folder represents one day’s mini project and the concepts I practiced.  
+Hey, I’m **Akshay**  
+This repository is my personal log of learning front-end development — HTML, CSS, and JavaScript.  
+Each folder represents one day’s mini project and the specific concepts I practiced.
 
 ---
 
-## 📅 Progress  
+## Progress
 
 | Day | Project | Description | Topics Covered |
 |-----|----------|--------------|----------------|
-| 🧠 1 | [Login Form](./Day-01-Login-Form) | A simple and responsive login form built using pure HTML & CSS. | HTML basics, Flexbox, Centering |
-| 🎯 2 | [CSS Grid Layouts](./Day-02-CSS-Grid) | Practiced grid rows, columns, and fractional units. Built a Chessboard and a Page Layout. | CSS Grid, `fr` units, `repeat()`, spanning |
+| 1 | [Login Form](./Day-01-Login-Form) | A simple, responsive login form built with pure HTML and CSS. | HTML basics, Flexbox, centering |
+| 2 | [CSS Grid Layouts](./Day-02-CSS-Grid) | Practiced CSS Grid rows, columns, and fractional units by building small layouts. | CSS Grid, `fr` units, `repeat()`, spanning |
+| 3 | [Responsive Grid & Overflow](./Day-03-Responsive-Grid) | Created a responsive image grid that adapts to screen sizes and experimented with overflow and box-shadow. | Media Queries, Box Shadow, Overflow |
 
 ---
 
-## 🧰 Tools & Tech  
+## Tools & Technologies
 
 - HTML5  
 - CSS3  
 - VS Code  
 - Git & GitHub  
 
----
-
-## 🚀 Next Up  
-Day 3 → Responsive Grid Areas + Media Queries  
-
----
-
-⭐ **Follow my journey** — I’m documenting each day’s progress to stay consistent and level up as a developer.
